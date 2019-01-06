@@ -1,1 +1,3 @@
-# electronic-shop-demo
+# electronic-shop-demo  
+
+Spring技术学习demo。
